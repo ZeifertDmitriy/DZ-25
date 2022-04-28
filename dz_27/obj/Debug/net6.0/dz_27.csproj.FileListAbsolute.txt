@@ -1,0 +1,15 @@
+D:\Учеба\git\C#\S3\dz_27\bin\Debug\net6.0\dz_27.exe
+D:\Учеба\git\C#\S3\dz_27\bin\Debug\net6.0\dz_27.deps.json
+D:\Учеба\git\C#\S3\dz_27\bin\Debug\net6.0\dz_27.runtimeconfig.json
+D:\Учеба\git\C#\S3\dz_27\bin\Debug\net6.0\dz_27.dll
+D:\Учеба\git\C#\S3\dz_27\bin\Debug\net6.0\dz_27.pdb
+D:\Учеба\git\C#\S3\dz_27\obj\Debug\net6.0\dz_27.csproj.AssemblyReference.cache
+D:\Учеба\git\C#\S3\dz_27\obj\Debug\net6.0\dz_27.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\git\C#\S3\dz_27\obj\Debug\net6.0\dz_27.AssemblyInfoInputs.cache
+D:\Учеба\git\C#\S3\dz_27\obj\Debug\net6.0\dz_27.AssemblyInfo.cs
+D:\Учеба\git\C#\S3\dz_27\obj\Debug\net6.0\dz_27.csproj.CoreCompileInputs.cache
+D:\Учеба\git\C#\S3\dz_27\obj\Debug\net6.0\dz_27.dll
+D:\Учеба\git\C#\S3\dz_27\obj\Debug\net6.0\refint\dz_27.dll
+D:\Учеба\git\C#\S3\dz_27\obj\Debug\net6.0\dz_27.pdb
+D:\Учеба\git\C#\S3\dz_27\obj\Debug\net6.0\dz_27.genruntimeconfig.cache
+D:\Учеба\git\C#\S3\dz_27\obj\Debug\net6.0\ref\dz_27.dll
